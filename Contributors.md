@@ -6,7 +6,6 @@ Laura Langdon
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[Red skull Coder](https://github.com/RedSkullCoder)
 -[Miloni Atal](https://github.com/MiloniAtal)
--[Yogita Upadhyay](https://github.com/yogitaupadhyay)
 -[Girish Kumar](https://github.com/GirishKumarDevadiga)
 -[shiwam](https://github.com/orrgato)
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
