@@ -52,6 +52,7 @@ itay-guter
 -[Navya]
 -[Kwofach] (https://github.com/kwofach)
 -[Rajan Lodhiya]
+-[Rahul Chari] (https://github.com/rah-1)
 -[Anas Muhammed]
 -[Seth Weaver] (https://github.com/Seth-Weaver)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
